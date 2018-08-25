@@ -491,7 +491,7 @@
 			<prefab name="PUBGWizardTower(by_DestroyTheBrain)" max_count="1" />
 			<prefab name="CBlockInnAndLot" max_count="1" />
 			<prefab name="Lighthouse(by_Rednarb)" max_count="1" />
-			<prefab name="TheHilltop(by_Rednarb)" max_count="1" />
+			<prefab name="TheHilltop3(by_Rednarb)" max_count="1" />
 			<prefab name="ZombieWoodSign" max_count="1" prob="0.01" />
 			<prefab name="PirateShip(by_Rednarb)" max_count="1" />
 			<prefab name="YellowSubmarine(by_KoanBonwa)" max_count="1" />
