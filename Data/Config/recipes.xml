@@ -1275,7 +1275,7 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 	<ingredient name="unit_clay" count="20"/>
 </recipe>
 
-<recipe name="glue" count="1" craft_area="chemistryStation">
+<recipe name="glue" count="2" craft_area="chemistryStation">
 	<ingredient name="femur" count="1"/>
 	<ingredient name="bottledRiverWater" count="1"/>
 </recipe>
@@ -1770,6 +1770,11 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 </recipe>
 
 <recipe name="moldyBread" count="1" craft_area="chemistryStation">
+	<ingredient name="shamSandwich" count="5"/>
+	<ingredient name="bottledRiverWater" count="1"/>
+</recipe>
+
+<recipe name="moldyBread" count="1" craft_area="campfire" craft_tool="beaker">
 	<ingredient name="shamSandwich" count="10"/>
 	<ingredient name="bottledRiverWater" count="1"/>
 </recipe>

@@ -1075,7 +1075,7 @@
 		<recipe name="batterybank" unlock_level="1"/>
 	</perk>
 
-	<perk name="doItYourselfPerk" icon="misc_crafting" description_key="doItYourselfDesc" title_key="doItYourselfName" max_level="3" skill_point_cost_multiplier="1.4" skill_point_cost_per_level="5" group="science">
+	<perk name="doItYourselfPerk" icon="misc_crafting" description_key="doItYourselfDesc" title_key="doItYourselfName" max_level="4" skill_point_cost_multiplier="1.4" skill_point_cost_per_level="5" group="science">
 		<requirement skill_level="1" required_skill_name="craftSkillScience" required_skill_level="5"/>
 		<requirement skill_level="1" required_skill_name="Construction Tools" required_skill_level="30"/>
 		<recipe name="mechanicalParts" unlock_level="1"/>

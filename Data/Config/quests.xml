@@ -396,7 +396,7 @@
 
 		<reward type="SkillPoints" value="100" />
                 <reward type="Recipe" id="OLASMold" value="1" stage="aftercomplete" />
-                <reward type="Recipe" id="OLAS" value="1" stage="aftercomplete" />
+                <reward type="Recipe" id="OurLordAndSavior" value="1" stage="aftercomplete" />
 	</quest>
 
 	<quest id="challenge_TheMonsterNeverDies" name="The Monster Never Dies" subtitle="Kill Gary El Diablo Rey with the RC-P120." description="Good news: You get to use a weapon that has a 120-round clip. Bad news: you'll likely need every last round." icon="ui_game_symbol_zombie"
@@ -625,7 +625,7 @@
 		<objective type="ZombieKill" id="Pokketninja" value="1" />
 		<objective type="ZombieKill" id="JonahBirch" value="1" />
 
-		<reward type="SkillPoints" value="100" />
+		<reward type="SkillPoints" value="50" />
 		<reward type="Quest" id="challenge_TwitchBuffet2" />
 	</quest>
 
@@ -635,11 +635,11 @@
 		<objective type="ZombieKill" id="MidnightDesigner" value="1" />
 		<objective type="ZombieKill" id="SecondClassElitist" value="1" />
 		<objective type="ZombieKill" id="MsAmyAly" value="1" />
-		<objective type="ZombieKill" id="GrandSpartan" value="1" />
+		<objective type="ZombieKill" id="SaintChops" value="1" />
 		<objective type="ZombieKill" id="iLuvatar" value="1"  />
 
 
-		<reward type="SkillPoints" value="100" />
+		<reward type="SkillPoints" value="50" />
 
 	</quest>
 

@@ -1554,6 +1554,7 @@
 	<item name="AmarosoRoll" prob="0.20"/>
 	<item name="FriedOnions" count="1,2" prob="0.10"/>
 	<item name="CheeseWhiz" prob="0.10"/>
+	<item name="plantedHop1" count="1,2" prob="0.10"/>
 </lootcontainer>
 
 <!-- misc metal container mailbox-->
@@ -1724,6 +1725,7 @@
 	<item name="AmarosoRoll" prob="0.20"/>
 	<item name="FriedOnions" count="1,2" prob="0.10"/>
 	<item name="CheeseWhiz" prob="0.10"/>
+	<item name="plantedHop1" count="1,2" prob="0.10"/>
 </lootcontainer>
 
 <!-- lockers -->
